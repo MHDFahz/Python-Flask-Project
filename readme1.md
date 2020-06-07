@@ -20,5 +20,5 @@
 <!-- find exact location og routes -->
     //to link css from static folder
     import url_for from flask
-    <link rel="stylesheet" type="text/css href="{{ url_for('static',filename='main.css')}}">
+    <link rel="stylesheet" type="text/css href="{{ url_for('static',filename='main.css')}}"> //url_for ==>name of funtion in routes
  <!-- flask_wtf --># Python-Flask-Project
